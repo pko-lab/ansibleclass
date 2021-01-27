@@ -1,7 +1,7 @@
 galaxy_info:
   author: Péter Kovács
   description: Install and configure httpd and php on Enterprise Linux
-  company: -
+  company: X
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
